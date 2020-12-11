@@ -1,9 +1,9 @@
 {
-  "name": "evobot",
+  "name": "krishiv's music bot",
   "version": "0.9.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Erit Islami, Krishiv#1531",
   "private": true,
   "homepage": "https://github.com/eritislami/evobot",
   "repository": "github:eritislami/evobot",
